@@ -1,0 +1,10 @@
+# app-ads.txt for Christmas Glow (and any other apps published under the same Google Play developer account).
+#
+# Replace pub-XXXXXXXXXXXXXXXX with YOUR AdMob publisher ID. Find it in AdMob: Settings > Account information
+# > Publisher ID, or copy the ready-made line from Apps > View all apps > app-ads.txt > "How to set up app-ads.txt".
+# It is the "pub-" number that also appears in your app ID (ca-app-pub-<this number>~...).
+#
+# This file must be served at the ROOT of the developer website entered in Play Console
+# (for a GitHub Pages user site: https://<username>.github.io/app-ads.txt). See docs/LAUNCH-GUIDE.md.
+# Format (IAB Tech Lab): <ad system domain>, <publisher account id>, <DIRECT|RESELLER>, <certification authority id>
+google.com, pub-5429852509859973, DIRECT, f08c47fec0942fa0
